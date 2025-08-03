@@ -19,7 +19,6 @@ AI TV is a cutting-edge, voice-first television system powered by open-source Li
 
 | Component                          | Description                                           |
 |-----------------------------------|------------------------------------------------------- |
-| 🧠 **LLM Agent**                  | On device inference                                    |
 | 🎥 **Camera**                     | Leopard Imaging LI-IMX179-USB-130H-CONN                |
 | 💻 **Processor**                  | NVIDIA Jetson AGX Orin or Raspberry Pi 5 + AI Hat      |
 | 💽 **Storage**                    | 1TB USB or Samsung 990 PRO PCIe SSD                    |
@@ -31,7 +30,8 @@ AI TV is a cutting-edge, voice-first television system powered by open-source Li
 
 ## 💻 Software Stack
 
-- 🧠 **OS**: Ubuntu Linux
+- 💻 **OS**: Ubuntu Linux
+- 🧠 **LLM Agent**
 - 🎮 **Apps**: RetroPie Games, MyNetwork Media Server
 - 🔐 **Security**:
   - Wireguard VPN
