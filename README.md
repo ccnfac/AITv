@@ -10,7 +10,7 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 
 ## Key Features
 
-- 🎙️ **Voice Interface**: Embedded LLM enabling full voice control
+- 🎙️ **Voice Interface**: LLM enabling full voice control
 - 🧩 **Agent Architecture**: Action Agents to handle diverse workflows
 - 🖥️ **Multi-Mode Use**: Media center, conference station, and workstation all in one
 - 🛡️ **Security**: Built-in VPN, Wireguard VPS, Secure browser
@@ -32,8 +32,8 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 
 ## Software Stack
 
-- 💻 **OS**: Ubuntu Linux
-- 🎮 **Apps**: RetroPie Games, MyNetwork Media Server
+- 💻 **OS**: Linux
+- 🎮 **Apps**: RetroPie Games, Media Server
 - 🔐 **Security**:
   - Wireguard VPN
   - Secure Web Browser
