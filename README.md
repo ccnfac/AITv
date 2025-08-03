@@ -73,13 +73,3 @@ You can explore a partial working prototype via:
  Integrate full-screen fingerprint authentication
 
  Optimize LLM for low-power inference
-
-🤝 Licensing
-This project is released under the MIT License. Custom licensing for enterprise and government partners available.
-
-👤 Author
-Calvin Addison
-CTO @ CCNFAC
-📞 470-270-9849
-📧 calvin_addison@yahoo.com
-🔗 My Portfolio
