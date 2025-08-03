@@ -1,7 +1,7 @@
 # 📺 AI TV  
 **The World's First Voice Operated Autonomous TV Platform**
 
-AI TV is a cutting-edge, voice first television system powered by open source Linux, edge based large language models, and orchestrator action agents. Designed for secure, private, and intelligent control over media, communication, and productivity.
+AI TV is a cutting edge, voice first television system powered by open source Linux, edge based large language models, and orchestrator action agents. Designed for secure, private, and intelligent control over media, communication, and productivity.
 
 ---
 <img width="800" height="400" alt="nec1" src="https://github.com/user-attachments/assets/8bf0feb4-616b-48e6-b33e-157b502dde6c" />
@@ -11,9 +11,9 @@ AI TV is a cutting-edge, voice first television system powered by open source Li
 ## 🧠 Key Features
 
 - 🎙️ **Voice Interface**: Embedded LLM enabling full voice control
-- 🧩 **Agent Architecture**: Orchestrator Agent + Action Agents to handle diverse workflows
+- 🧩 **Agent Architecture**: Action Agents to handle diverse workflows
 - 🖥️ **Multi-Mode Use**: Media center, conference station, and workstation all in one
-- 🛡️ **Security**: Built-in VPN, Wireguard, and Secure browser
+- 🛡️ **Security**: Built-in VPN, Wireguard VPS, Secure browser
 
 ---
 
@@ -37,13 +37,12 @@ AI TV is a cutting-edge, voice first television system powered by open source Li
 - 🎮 **Apps**: RetroPie Games, MyNetwork Media Server
 - 🔐 **Security**:
   - Wireguard VPN
-  - ZeroTrust Web Browser
-  - Luminetwork Private Messaging
-  - No antivirus bloatware
+  - Secure Web Browser
+    
 - 🔧 **Utilities**:
   - Jellfin Media System
   - VNC Server/Client
-  - LibreTranslate for offline multilingual support
+  - LibreTranslate for multilingual support
 
 ---
 
