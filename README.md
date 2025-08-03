@@ -33,7 +33,7 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 ## Software Stack
 
 - 💻 **OS**: Linux
-- 🎮 **Apps**: Signal, Kodi, RetroPie Games, Media Server, Etc.
+- 🎮 **Apps**: Signal, Kodi, RetroPie Games, Etc.
 - 🔐 **Security**:
   - Wireguard VPN
   - Secure Web Browser
