@@ -1,4 +1,5 @@
 # 📺 AI TV  
+**The World's First Voice-Operated Autonomous TV Platform**
 
 AI TV is a cutting edge, voice first television system powered by open source Linux, large language models, and orchestrator action agents. Designed for secure and intelligent control over media, communication, and productivity.
 
