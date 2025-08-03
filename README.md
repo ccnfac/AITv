@@ -57,11 +57,3 @@ All system functions are accessible by voice through our agentic system:
 [ You: ] "Stream screen to living room TV"  
 [ Agent: ] "Broadcasting via VNC to connected Samsung 4K display"
 
-🚧 Roadmap
- Add support for Matter/Thread home automation
-
- Expand agent templates for productivity and entertainment
-
- Integrate full-screen fingerprint authentication
-
- Optimize LLM for low-power inference
