@@ -33,7 +33,7 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 ## Software Stack
 
 - 💻 **OS**: Linux
-- 🎮 **Apps**: RetroPie Games, Media Server
+- 🎮 **Apps**: Signal, Kodi, RetroPie Games, Media Server
 - 🔐 **Security**:
   - Wireguard VPN
   - Secure Web Browser
@@ -41,6 +41,7 @@ AI TV is a cutting edge, voice first television system powered by open source Li
   - Jellyfin Media System
   - VNC Server/Client
   - LibreTranslate for multilingual support
+  - Built-in tuner
 
 ---
 
