@@ -56,4 +56,44 @@ All system functions are accessible by voice through our agentic system:
 [ Agent: ] "Starting Jitsi Meet session with camera and mic..."  
 [ You: ] "Stream screen to living room TV"  
 [ Agent: ] "Broadcasting via VNC to connected Sharp 4K display"
+```
 
+## Compatible Models
+
+M Series Large Format Displays
+
+M431-2
+M501-2
+M551-2
+M651-2
+M751
+M751-AVT3
+M861
+M861-AVT3
+M981
+M981-AVT3
+
+MA Series Large Format Displays
+
+MA431
+MA431-IR
+MA431-MPi4E
+MA431-PT
+MA551
+MA551-IR
+MA551-MPi4E
+MA551-PT
+P Series Large Format Displays
+
+P435
+P435-IR
+P435-MPi4E
+P435-PT
+P495
+P495-IR
+P495-MPi4E
+P495-PT
+P555
+P555-IR
+P555-MPi4E
+P555-PT
