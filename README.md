@@ -1,7 +1,7 @@
 # 📺 AI TV  
-**The World's First Voice-Operated Autonomous TV Platform**
+**The World's First Voice Operated Autonomous TV Platform**
 
-AI TV is a cutting-edge, voice-first television system powered by open-source Linux, edge-based large language models (LLMs), and orchestrator/action agents. Designed for secure, private, and intelligent control over media, communication, and productivity.
+AI TV is a cutting-edge, voice first television system powered by open source Linux, edge based large language models, and orchestrator action agents. Designed for secure, private, and intelligent control over media, communication, and productivity.
 
 ---
 <img width="800" height="400" alt="nec1" src="https://github.com/user-attachments/assets/8bf0feb4-616b-48e6-b33e-157b502dde6c" />
@@ -12,9 +12,8 @@ AI TV is a cutting-edge, voice-first television system powered by open-source Li
 
 - 🎙️ **Voice Interface**: Embedded LLM enabling full voice control
 - 🧩 **Agent Architecture**: Orchestrator Agent + Action Agents to handle diverse workflows
-- 🔒 **100% On-Device Processing**: No cloud dependency, full privacy control
-- 🖥️ **Multi-Mode Use**: Media center, conference station, workstation—all in one
-- 🛡️ **Zero-Trust Security**: Built-in VPN, Wireguard, and ZeroTrust browser
+- 🖥️ **Multi-Mode Use**: Media center, conference station, and workstation all in one
+- 🛡️ **Security**: Built-in VPN, Wireguard, and Secure browser
 
 ---
 
@@ -26,8 +25,8 @@ AI TV is a cutting-edge, voice-first television system powered by open-source Li
 | 💻 **Processor**                  | NVIDIA Jetson AGX Orin or Raspberry Pi 5 + AI Hat      |
 | 💽 **Storage**                    | 1TB USB or Samsung 990 PRO PCIe SSD                    |
 | 🎤 **Audio Input**                | Yeti Nano Dual USB / Rode Wireless ME                  |
-| ⌨️ **Keyboard Options**           | Man & Machine / Dell / Rii wireless (unsecured only)   |
-| 🖥️ **Displays**                   | Samsung Odyssey Ark / NEC E658 4K Digital Signage      |
+| ⌨️ **Keyboard Options**           | Man & Machine keyboard / Rii wireless                  |
+| 🖥️ **Displays**                   | Sharp M431 Monitor / MA551-PT Display with PCAP touch  |
 
 ---
 
