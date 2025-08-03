@@ -8,7 +8,7 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 <img width="800" height="400" alt="nec2" src="https://github.com/user-attachments/assets/3b2c9893-8847-40ab-a519-5533d6376a10" />
 
 
-## 🧠 Key Features
+## Key Features
 
 - 🎙️ **Voice Interface**: Embedded LLM enabling full voice control
 - 🧩 **Agent Architecture**: Action Agents to handle diverse workflows
@@ -17,7 +17,7 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 
 ---
 
-## 🛠️ Hardware Stack
+## Hardware Stack
 
 | Component                          | Description                                           |
 |-----------------------------------|------------------------------------------------------- |
@@ -30,17 +30,15 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 
 ---
 
-## 💻 Software Stack
+## Software Stack
 
 - 💻 **OS**: Ubuntu Linux
-- 🧠 **LLM Agent**
 - 🎮 **Apps**: RetroPie Games, MyNetwork Media Server
 - 🔐 **Security**:
   - Wireguard VPN
   - Secure Web Browser
-    
 - 🔧 **Utilities**:
-  - Jellfin Media System
+  - Jellyfin Media System
   - VNC Server/Client
   - LibreTranslate for multilingual support
 
@@ -56,5 +54,5 @@ All system functions are accessible by voice through our agentic system:
 [ You: ] "Switch to video conference"  
 [ Agent: ] "Starting Jitsi Meet session with camera and mic..."  
 [ You: ] "Stream screen to living room TV"  
-[ Agent: ] "Broadcasting via VNC to connected Samsung 4K display"
+[ Agent: ] "Broadcasting via VNC to connected Sharp 4K display"
 
