@@ -60,7 +60,7 @@ All system functions are accessible by voice through our agentic system:
 
 ## Compatible Models
 
-M Series Large Format Displays
+M Series Large Format Displays:
 
 M431-2
 M501-2
@@ -73,7 +73,7 @@ M861-AVT3
 M981
 M981-AVT3
 
-MA Series Large Format Displays
+MA Series Large Format Displays:
 
 MA431
 MA431-IR
@@ -83,7 +83,8 @@ MA551
 MA551-IR
 MA551-MPi4E
 MA551-PT
-P Series Large Format Displays
+
+P Series Large Format Displays:
 
 P435
 P435-IR
