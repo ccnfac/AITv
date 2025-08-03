@@ -4,6 +4,9 @@
 AI TV is a cutting-edge, voice-first television system powered by open-source Linux, edge-based large language models (LLMs), and orchestrator/action agents. Designed for secure, private, and intelligent control over media, communication, and productivity.
 
 ---
+<img width="800" height="400" alt="nec1" src="https://github.com/user-attachments/assets/8bf0feb4-616b-48e6-b33e-157b502dde6c" />
+<img width="800" height="400" alt="nec2" src="https://github.com/user-attachments/assets/3b2c9893-8847-40ab-a519-5533d6376a10" />
+
 
 ## 🧠 Key Features
 
