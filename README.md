@@ -19,26 +19,25 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 
 ## Hardware Stack
 
-| Component                          | Description                                           |
-|-----------------------------------|------------------------------------------------------- |
-| 🎥 **Camera**                     | Leopard Imaging LI-IMX179-USB-130H-CONN                |
-| 💻 **Processor**                  | NVIDIA Jetson AGX Orin or Raspberry Pi 5 + AI Hat      |
-| 💽 **Storage**                    | 1TB USB or Samsung 990 PRO PCIe SSD                    |
-| 🎤 **Audio Input**                | Yeti Nano Dual USB / Rode Wireless ME                  |
-| ⌨️ **Keyboard Options**           | Man & Machine keyboard / Rii wireless                  |
-| 🖥️ **Displays**                   | Sharp M431 Monitor / MA551-PT Display with PCAP touch  |
+| Component                          | Description                              |
+|-----------------------------------|------------------------------------------ |
+| 🎥 **Camera**                     | Leopard Imaging LI-IMX179-USB-130H-CONN   |
+| 💻 **Processor**                  | Raspberry Pi + AI Hat                     |
+| 💽 **Storage**                    | 1TB USB                                   |
+| 🎤 **Audio Input**                | Yeti Nano Dual USB / Rode Wireless ME     |
+| ⌨️ **Keyboard Options**           | Man & Machine keyboard / Rii wireless     |
+| 🖥️ **Displays**                   | Sharp / NEC Display                       |
 
 ---
 
 ## Software Stack
 
 - 💻 **OS**: Linux
-- 🎮 **Apps**: Signal, Kodi, RetroPie Games, Etc.
+- 🎮 **Apps**: Signal, Kodi, Jellyfin Media, and more.
 - 🔐 **Security**:
   - Wireguard VPN
   - Secure Web Browser
 - 🔧 **Utilities**:
-  - Jellyfin Media System
   - VNC Server/Client
   - LibreTranslate for multilingual support
   - Built-in tuner
