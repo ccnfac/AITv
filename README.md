@@ -10,8 +10,8 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 
 ## Key Features
 
-- 🎙️ **Voice Interface**: LLM enabling full voice control
-- 🧩 **Agent Architecture**: Action Agents to handle diverse workflows
+- 🎙️ **Voice Interface**: Voice model enabling full voice control
+- 🧩 **Agent Architecture**: Action Agents handle diverse workflows
 - 🖥️ **Multi-Mode Use**: Media center, conference station, and workstation all in one
 - 🛡️ **Security**: Built-in VPN, Wireguard VPS, Secure browser
 
@@ -22,8 +22,7 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 | Component                          | Description                              |
 |-----------------------------------|------------------------------------------ |
 | 🎥 **Camera**                     | Leopard Imaging LI-IMX179-USB-130H-CONN   |
-| 💻 **Processor**                  | Raspberry Pi + AI Hat                     |
-| 💽 **Storage**                    | 1TB USB                                   |
+| 💻 **Processor**                  | Raspberry Pi                              |
 | 🎤 **Audio Input**                | Yeti Nano Dual USB / Rode Wireless ME     |
 | ⌨️ **Keyboard Options**           | Man & Machine keyboard / Rii wireless     |
 | 🖥️ **Displays**                   | Sharp / NEC Display                       |
@@ -33,13 +32,11 @@ AI TV is a cutting edge, voice first television system powered by open source Li
 ## Software Stack
 
 - 💻 **OS**: Linux
-- 🎮 **Apps**: Signal, Kodi, Jellyfin Media, and more.
 - 🔐 **Security**:
   - Wireguard VPN
   - Secure Web Browser
 - 🔧 **Utilities**:
   - VNC Server/Client
-  - LibreTranslate for multilingual support
   - Built-in tuner
 
 ---
